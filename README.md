@@ -1,7 +1,7 @@
 ### Apresentação
 
 - Olá, me chamo Marcos Aguiar e tenho 24 anos. No momento estou cursando o sexto semestre de ciência da computação no CESUPA.
-- Adoro ir a praia, viajar e estar em contato com a natureza 🌴
+- Gosto de ir a praia, viajar e estar em contato com a natureza 🌴
 
 
 ### Bio
