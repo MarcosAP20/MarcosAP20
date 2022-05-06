@@ -1,3 +1,4 @@
+<!--
 ### Apresentação
 
 - Olá, me chamo Marcos Aguiar e tenho 24 anos. No momento estou cursando o sexto semestre de ciência da computação no CESUPA.
@@ -8,7 +9,7 @@
 
 - Desenvolvedor Backend 💻💞
 
-<!--
+
 **MarcosAP20/MarcosAP20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
